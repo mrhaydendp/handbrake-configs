@@ -101,7 +101,7 @@
       "VideoLevel": "auto",
       "VideoOptionExtra": "strong-intra-smoothing=0:aq-mode=1:rd=4:psy-rd=1.2:psy-rdoq=4.0:rdoq-level=1:rskip=2",
       "VideoQualityType": 2,
-      "VideoQualitySlider": 21,
+      "VideoQualitySlider": 22,
       "VideoMultiPass": true,
       "VideoTurboMultiPass": true,
       "x264UseAdvancedOptions": false,
