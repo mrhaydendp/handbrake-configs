@@ -76,7 +76,7 @@
       "PicturePadBottom": 0,
       "PicturePadLeft": 0,
       "PicturePadRight": 0,
-      "PresetDescription": "Excellent balance between quality and speed for non-telecined cartoons. Reduce encoder preset to 5 if encode is too slow.",
+      "PresetDescription": "Excellent balance between quality and speed for non-telecined cartoons. Increase encoder preset to 5 if encode is too slow.",
       "PresetName": "DVD Cartoon AV1",
       "Type": 1,
       "SubtitleAddCC": false,
@@ -110,4 +110,5 @@
   "VersionMajor": 59,
   "VersionMicro": 0,
   "VersionMinor": 0
+
 }
